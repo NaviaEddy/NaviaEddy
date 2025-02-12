@@ -24,12 +24,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.NaviaEddy }}
-          outputs: |
-              dist/github-snake.svg
-              dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
