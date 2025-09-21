@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,js,python,react,php,flutter,unreal engine" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,figma,js,python,react,php,flutter,unreal engine" />
   </a>
 </p>
 
