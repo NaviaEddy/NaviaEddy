@@ -48,19 +48,19 @@
 ## ⚙️ My tech stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gitlab,docker,c,cpp,nodejs,nestjs,html,css" />
+    <img src="https://skillicons.dev/icons?i=gitlab,docker,c,cpp,nodejs,nestjs,html,css,rabbitmq,vercel" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,figma,js,python,react,php,flutter,unreal engine" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,figma,js,python,react,flutter,unreal,react,tailwind" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,flask,java,mysql,idea,visualstudio,vscode,arduino" />
+    <img src="https://skillicons.dev/icons?i=flask,java,mysql,postgres,visualstudio,vscode,nextjs" />
   </a>
 </p>
 
